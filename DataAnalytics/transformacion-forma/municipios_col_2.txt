@@ -1,0 +1,506 @@
+id_departamento	departamento
+5	Antioquia
+5	Antioquia
+50	Meta
+27	Chocó
+41	Huila
+13	Bolívar
+41	Huila
+25	Cundinamarca
+20	Cesar
+68	Santander
+17	Caldas
+85	Casanare
+20	Cesar
+41	Huila
+18	Caquetá
+44	La Guajira
+68	Santander
+25	Cundinamarca
+52	Nariño
+76	Valle del Cauca
+52	Nariño
+5	Antioquia
+47	Magdalena
+41	Huila
+19	Cauca
+15	Boyacá
+73	Tolima
+41	Huila
+27	Chocó
+13	Bolívar
+73	Tolima
+5	Antioquia
+5	Antioquia
+73	Tolima
+25	Cundinamarca
+52	Nariño
+76	Valle del Cauca
+5	Antioquia
+5	Antioquia
+5	Antioquia
+25	Cundinamarca
+5	Antioquia
+17	Caldas
+76	Valle del Cauca
+73	Tolima
+5	Antioquia
+5	Antioquia
+25	Cundinamarca
+66	Risaralda
+15	Boyacá
+47	Magdalena
+17	Caldas
+68	Santander
+81	Arauca
+81	Arauca
+25	Cundinamarca
+52	Nariño
+54	Norte de Santander
+5	Antioquia
+15	Boyacá
+13	Bolívar
+5	Antioquia
+19	Cauca
+76	Valle del Cauca
+47	Magdalena
+13	Bolívar
+5	Antioquia
+63	Quindío
+73	Tolima
+13	Bolívar
+20	Cesar
+73	Tolima
+27	Chocó
+23	Córdoba
+27	Chocó
+27	Chocó
+27	Chocó
+19	Cauca
+66	Risaralda
+8	Atlántico
+41	Huila
+52	Nariño
+5	Antioquia
+68	Santander
+68	Santander
+50	Meta
+68	Santander
+44	La Guajira
+13	Bolívar
+8	Atlántico
+20	Cesar
+17	Caldas
+5	Antioquia
+5	Antioquia
+25	Cundinamarca
+15	Boyacá
+52	Nariño
+27	Chocó
+66	Risaralda
+18	Caquetá
+15	Boyacá
+5	Antioquia
+15	Boyacá
+5	Antioquia
+68	Santander
+25	Cundinamarca
+15	Boyacá
+54	Norte de Santander
+25	Cundinamarca
+25	Cundinamarca
+27	Chocó
+5	Antioquia
+19	Cauca
+68	Santander
+76	Valle del Cauca
+20	Cesar
+15	Boyacá
+5	Antioquia
+15	Boyacá
+68	Santander
+54	Norte de Santander
+76	Valle del Cauca
+15	Boyacá
+23	Córdoba
+63	Quindío
+70	Sucre
+19	Cauca
+52	Nariño
+76	Valle del Cauca
+76	Valle del Cauca
+5	Antioquia
+15	Boyacá
+25	Cundinamarca
+68	Santander
+50	Meta
+25	Cundinamarca
+5	Antioquia
+76	Valle del Cauca
+70	Sucre
+73	Tolima
+19	Cauca
+25	Cundinamarca
+13	Bolívar
+95	Guaviare
+63	Quindío
+5	Antioquia
+15	Boyacá
+19	Cauca
+68	Santander
+76	Valle del Cauca
+19	Cauca
+76	Valle del Cauca
+5	Antioquia
+8	Atlántico
+41	Huila
+15	Boyacá
+23	Córdoba
+8	Atlántico
+76	Valle del Cauca
+13	Bolívar
+27	Chocó
+25	Cundinamarca
+68	Santander
+5	Antioquia
+5	Antioquia
+68	Santander
+5	Antioquia
+73	Tolima
+25	Cundinamarca
+5	Antioquia
+27	Chocó
+5	Antioquia
+13	Bolívar
+18	Caquetá
+76	Valle del Cauca
+97	Vaupés
+73	Tolima
+50	Meta
+5	Antioquia
+5	Antioquia
+68	Santander
+23	Córdoba
+15	Boyacá
+68	Santander
+47	Magdalena
+52	Nariño
+25	Cundinamarca
+70	Sucre
+73	Tolima
+68	Santander
+68	Santander
+5	Antioquia
+68	Santander
+20	Cesar
+23	Córdoba
+15	Boyacá
+17	Caldas
+54	Norte de Santander
+23	Córdoba
+25	Cundinamarca
+68	Santander
+15	Boyacá
+20	Cesar
+15	Boyacá
+15	Boyacá
+54	Norte de Santander
+15	Boyacá
+15	Boyacá
+47	Magdalena
+25	Cundinamarca
+25	Cundinamarca
+85	Casanare
+25	Cundinamarca
+15	Boyacá
+15	Boyacá
+13	Bolívar
+68	Santander
+63	Quindío
+5	Antioquia
+15	Boyacá
+47	Magdalena
+23	Córdoba
+13	Bolívar
+5	Antioquia
+73	Tolima
+25	Cundinamarca
+41	Huila
+70	Sucre
+86	Putumayo
+52	Nariño
+5	Antioquia
+68	Santander
+5	Antioquia
+47	Magdalena
+27	Chocó
+68	Santander
+52	Nariño
+52	Nariño
+68	Santander
+54	Norte de Santander
+5	Antioquia
+15	Boyacá
+63	Quindío
+19	Cauca
+68	Santander
+70	Sucre
+15	Boyacá
+25	Cundinamarca
+23	Córdoba
+15	Boyacá
+70	Sucre
+73	Tolima
+81	Arauca
+52	Nariño
+50	Meta
+15	Boyacá
+15	Boyacá
+25	Cundinamarca
+54	Norte de Santander
+15	Boyacá
+50	Meta
+99	Vichada
+52	Nariño
+52	Nariño
+73	Tolima
+18	Caquetá
+68	Santander
+20	Cesar
+5	Antioquia
+54	Norte de Santander
+54	Norte de Santander
+25	Cundinamarca
+27	Chocó
+15	Boyacá
+13	Bolívar
+52	Nariño
+54	Norte de Santander
+5	Antioquia
+76	Valle del Cauca
+44	La Guajira
+44	La Guajira
+73	Tolima
+5	Antioquia
+66	Risaralda
+15	Boyacá
+54	Norte de Santander
+5	Antioquia
+5	Antioquia
+47	Magdalena
+76	Valle del Cauca
+50	Meta
+54	Norte de Santander
+68	Santander
+27	Chocó
+13	Bolívar
+50	Meta
+76	Valle del Cauca
+52	Nariño
+15	Boyacá
+25	Cundinamarca
+20	Cesar
+18	Caquetá
+50	Meta
+76	Valle del Cauca
+15	Boyacá
+68	Santander
+13	Bolívar
+44	La Guajira
+20	Cesar
+18	Caquetá
+52	Nariño
+13	Bolívar
+68	Santander
+25	Cundinamarca
+47	Magdalena
+68	Santander
+95	Guaviare
+47	Magdalena
+70	Sucre
+25	Cundinamarca
+52	Nariño
+52	Nariño
+19	Cauca
+52	Nariño
+54	Norte de Santander
+54	Norte de Santander
+76	Valle del Cauca
+41	Huila
+68	Santander
+68	Santander
+5	Antioquia
+5	Antioquia
+73	Tolima
+25	Cundinamarca
+73	Tolima
+17	Caldas
+63	Quindío
+15	Boyacá
+73	Tolima
+18	Caquetá
+19	Cauca
+15	Boyacá
+76	Valle del Cauca
+68	Santander
+68	Santander
+44	La Guajira
+81	Arauca
+25	Cundinamarca
+52	Nariño
+5	Antioquia
+73	Tolima
+5	Antioquia
+50	Meta
+47	Magdalena
+52	Nariño
+25	Cundinamarca
+25	Cundinamarca
+25	Cundinamarca
+25	Cundinamarca
+25	Cundinamarca
+25	Cundinamarca
+15	Boyacá
+25	Cundinamarca
+8	Atlántico
+70	Sucre
+68	Santander
+25	Cundinamarca
+20	Cesar
+15	Boyacá
+41	Huila
+41	Huila
+76	Valle del Cauca
+5	Antioquia
+25	Cundinamarca
+5	Antioquia
+68	Santander
+20	Cesar
+54	Norte de Santander
+5	Antioquia
+25	Cundinamarca
+50	Meta
+68	Santander
+15	Boyacá
+76	Valle del Cauca
+52	Nariño
+19	Cauca
+25	Cundinamarca
+52	Nariño
+5	Antioquia
+41	Huila
+68	Santander
+25	Cundinamarca
+52	Nariño
+52	Nariño
+47	Magdalena
+50	Meta
+73	Tolima
+68	Santander
+19	Cauca
+70	Sucre
+5	Antioquia
+25	Cundinamarca
+5	Antioquia
+25	Cundinamarca
+25	Cundinamarca
+15	Boyacá
+68	Santander
+25	Cundinamarca
+25	Cundinamarca
+15	Boyacá
+68	Santander
+15	Boyacá
+25	Cundinamarca
+66	Risaralda
+68	Santander
+15	Boyacá
+63	Quindío
+5	Antioquia
+54	Norte de Santander
+13	Bolívar
+68	Santander
+85	Casanare
+44	La Guajira
+5	Antioquia
+54	Norte de Santander
+73	Tolima
+5	Antioquia
+41	Huila
+73	Tolima
+73	Tolima
+73	Tolima
+52	Nariño
+52	Nariño
+19	Cauca
+94	Guainía
+52	Nariño
+41	Huila
+27	Chocó
+5	Antioquia
+5	Antioquia
+15	Boyacá
+19	Cauca
+76	Valle del Cauca
+5	Antioquia
+15	Boyacá
+5	Antioquia
+15	Boyacá
+25	Cundinamarca
+68	Santander
+68	Santander
+8	Atlántico
+25	Cundinamarca
+27	Chocó
+23	Córdoba
+41	Huila
+68	Santander
+25	Cundinamarca
+15	Boyacá
+5	Antioquia
+66	Risaralda
+52	Nariño
+76	Valle del Cauca
+17	Caldas
+54	Norte de Santander
+5	Antioquia
+52	Nariño
+20	Cesar
+20	Cesar
+44	La Guajira
+52	Nariño
+50	Meta
+17	Caldas
+25	Cundinamarca
+18	Caquetá
+25	Cundinamarca
+68	Santander
+20	Cesar
+25	Cundinamarca
+5	Antioquia
+41	Huila
+54	Norte de Santander
+99	Vichada
+85	Casanare
+19	Cauca
+63	Quindío
+52	Nariño
+5	Antioquia
+52	Nariño
+70	Sucre
+76	Valle del Cauca
+15	Boyacá
+19	Cauca
+25	Cundinamarca
+15	Boyacá
+17	Caldas
+76	Valle del Cauca
+66	Risaralda
+54	Norte de Santander
+15	Boyacá
+68	Santander
+68	Santander
+52	Nariño
+50	Meta
+25	Cundinamarca
+91	Amazonas
